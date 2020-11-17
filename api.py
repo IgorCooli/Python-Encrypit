@@ -36,5 +36,3 @@ def renovar_chave_resource():
 def enviar_chave_resource(key):
     return enviar_chave(key)
 
-
-app.run(port=5000, debug=True)
